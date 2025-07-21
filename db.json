@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Tênis Esportivo Verde",
+      "image": "/images/tenis-1.jpg",
+      "price": 299.9
+    },
+    {
+      "id": "2",
+      "name": "Tênis Nike Vermelho",
+      "image": "/images/tenis-2.jpg",
+      "price": 349.9
+    },
+    {
+      "id": "3",
+      "name": "Tênis Nike Branco/Rosa",
+      "image": "/images/tenis-3.jpg",
+      "price": 399.9
+    },
+    {
+      "id": "4",
+      "name": "Tênis Nike Branco/Laranja",
+      "image": "/images/tenis-4.jpg",
+      "price": 279.9
+    },
+    {
+      "id": "5",
+      "name": "Sneaker Branco com Detalhes",
+      "image": "/images/tenis-5.jpg",
+      "price": 499.0
+    },
+    {
+      "id": "6",
+      "name": "Tênis Nike Branco",
+      "image": "/images/tenis-6.jpg",
+      "price": 319.0
+    },
+    {
+      "id": "7",
+      "name": "Tênis Nike Branco/Vermelho",
+      "image": "/images/tenis-7.jpg",
+      "price": 259.0
+    },
+    {
+      "id": "8",
+      "name": "Tênis Nike Azul",
+      "image": "/images/tenis-8.jpg",
+      "price": 279.0
+    },
+    {
+      "id": "9",
+      "name": "Tênis All Star Preto",
+      "image": "/images/tenis-9.jpg",
+      "price": 309.0
+    },
+    {
+      "id": "10",
+      "name": "Tênis Adidas Branco",
+      "image": "/images/tenis-10.jpg",
+      "price": 369.0
+    },
+    {
+      "id": "11",
+      "name": "Sneaker Laranja/Amarelo",
+      "image": "/images/tenis-11.jpg",
+      "price": 429.0
+    },
+    {
+      "id": "12",
+      "name": "Bota Outdoor Marrom",
+      "image": "/images/tenis-12.jpg",
+      "price": 499.0
+    },
+    {
+      "id": "13",
+      "name": "Tênis Confortável Cinza",
+      "image": "/images/tenis-13.jpg",
+      "price": 289.0
+    },
+    {
+      "id": "14",
+      "name": "Tênis Nike Cinza",
+      "image": "/images/tenis-14.jpg",
+      "price": 349.0
+    },
+    {
+      "id": "15",
+      "name": "Bota Amarela",
+      "image": "/images/tenis-15.jpg",
+      "price": 389.0
+    },
+    {
+      "id": "16",
+      "name": "Bota Florida",
+      "image": "/images/tenis-16.jpg",
+      "price": 319.0
+    },
+    {
+      "id": "17",
+      "name": "Tênis Nike Azul/Branco",
+      "image": "/images/tenis-17.jpg",
+      "price": 299.0
+    },
+    {
+      "id": "18",
+      "name": "Tênis Corrida",
+      "image": "/images/tenis-18.jpg",
+      "price": 289.0
+    },
+    {
+      "id": "19",
+      "name": "Tênis Reebok Casual",
+      "image": "/images/tenis-19.jpg",
+      "price": 269.0
+    },
+    {
+      "id": "20",
+      "name": "Tênis Corrida Colorido",
+      "image": "/images/tenis-20.jpg",
+      "price": 259.0
+    }
+  ]
+}
